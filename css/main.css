@@ -23,9 +23,47 @@ header #info-sup {
 	background: #000;
 	width:100%;
 	font-size: 12px;
-	min-height: 20px;
-	padding: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
+
+ul li  {
+	list-style: none;
+	display: inline-block;
+	margin-left: 12px;
+}
+
+i {
+	margin:0;
+}
+
+.linev {
+	width: 2px;
+	height: 16px;
+	background: #cecece;
+}
+
+header #info-inf {
+	color: #fff;
+	background: #843fd3;
+	width:100%;
+	font-size: 12px;
+}
+
+header h1 {
+	margin:0px;	
+}
+
+.logo {
+	float: right;
+	width:10%;
+}
+
+.menu {
+	float:left;
+	width:90%;
+}
+
 
 
 
